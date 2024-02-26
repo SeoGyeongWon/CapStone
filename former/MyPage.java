@@ -7,6 +7,7 @@ public class MyPage {
 	private int id;
 	private String username;
 	private String password;
+	private int phonenumber
 	private Date birthday;
 	private String email;
 	private int point;
